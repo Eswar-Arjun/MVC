@@ -12,7 +12,7 @@
 		<input type="text" name ="FirstName" placeholder="Enter Your FirstName"> <br> 
 		<input type="text" name ="LastName" placeholder="Enter Your LastName">  <br>
 		<input type="text" name ="Email" placeholder="Enter Your Email">		<br> 
-		<input type="submit" value="Submit">
+		<input type="submit" value="Submited">
 	</form>
 </body>
 </html>
